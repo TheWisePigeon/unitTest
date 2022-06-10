@@ -1,0 +1,14 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^4.3.6",
+    "express": "^4.17.1",
+    "mocha": "^10.0.0",
+    "nodemon": "^2.0.16"
+  }
+}
